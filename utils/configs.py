@@ -30,11 +30,10 @@ class Var(object):
 class Tr(object):
 
     START_TEXT = """
-👋 Hi {}, Welcome To @xImgBBbot
+👋 Hi {},
+         I’m [ImgBBbot](telegram.me/xImgBBbot). I can generate shareable link for the images you send which will be uploaded to imgbb.com!
 
-**With This Bot You Can Hosts Your Images On imgbb.com **
-
-You Can Send An Image As Forwarded Message From Any Chat/Channel Or Upload It As Photo Or File.
+BTW, do press **Help** for more information about the process.
 """
 
     ABOUT_TEXT = """🤖 **My Name:** [ImgBB](telegram.me/xImgBBbot)
