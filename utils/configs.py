@@ -46,8 +46,6 @@ BTW, do press **Help** for more information about the process.
 
 👨‍💻 **Developer:** [𖤍 Λℓσηє 𖤍](t.me/xDune)
 
-💡 **Source Code:** [Github](https://github.com/AmineSoukara/ImgBB-Bot)
-
 👥 **Support Group:** [Marine Support](https://t.me/MarineChats)
 
 📢 **Updates Channel:** [Marine Bots](https://t.me/MarineBots)
