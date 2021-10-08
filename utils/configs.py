@@ -20,8 +20,8 @@ class Var(object):
     # You Can Get An API Key From https://api.imgbb.com.
     API = os.environ.get("API", None)
 
-    OWNER_ID = int(os.environ.get("OWNER_ID", "853393439"))
-    BOT_NAME = os.environ.get("BOT_NAME", "ImgBBRobot")
+    OWNER_ID = int(os.environ.get("OWNER_ID", "1453690249"))
+    BOT_NAME = os.environ.get("BOT_NAME", "ImgBB")
 
     START_PIC = "https://i.imgur.com/zYIllxt.jpg"
     HELP_PIC = "https://i.imgur.com/AmxAlix.jpg"
@@ -30,40 +30,35 @@ class Var(object):
 class Tr(object):
 
     START_TEXT = """
-👋 Hi ! {} Welcome To @ImgBBRobot
+👋 Hi ! {} Welcome To @xImgBBbot
 
 **With This Bot You Can Hosts Your Images On imgbb.com **
 
 You Can Send An Image As Forwarded Message From Any Chat/Channel Or Upload It As Photo Or File.
 """
 
-    ABOUT_TEXT = """🤖 **My Name:** [ImgBB](t.me/ImgBBRobot)
+    ABOUT_TEXT = """🤖 **My Name:** [ImgBB](telegram.me/xImgBBbot)
 
 📝 **Language:** [Python 3](https://www.python.org)
 
 📚 **Framework:** [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-📡 **Hosted On:** [Railway](railway.app)
+📡 **Hosted On:** [Railway](https://railway.app)
 
-👨‍💻 **Developer:** [Amine Soukara](t.me/AmineSoukara)
+👨‍💻 **Developer:** [𖤍 Λℓσηє 𖤍](t.me/xDune)
 
-💡 **Source Code:** [Github](https://github.com/AmineSoukara/ImgBB-Bot/fork)
+💡 **Source Code:** [Github](https://github.com/AmineSoukara/ImgBB-Bot)
 
-👥 **Support Group:** [Damien Help](https://t.me/DamienHelp)
+👥 **Support Group:** [Marine Support](https://t.me/MarineChats)
 
-📢 **Updates Channel:** [Damien Soukara](https://t.me/DamienSoukara)
-
-
-❤ [Donate](https://www.paypal.me/AmineSoukara) (PayPal)
+📢 **Updates Channel:** [Marine Bots](https://t.me/MarineBots)
 """
 
-    HELP_TEXT = """💡 Just Send Me Your Photo And I'll Upload it To You .  That's it
-
-❤ [Donate](https://www.paypal.me/AmineSoukara) (PayPal)
+    HELP_TEXT = """💡 Just Send Me An Image And I'll Upload it To You .  That's it!
 """
 
     ERR_TEXT = "⚠️ API Not Found"
 
-    ERRTOKEN_TEXT = "😶 The Access Token Provided Is Expired, Revoked, Malformed Or Invalid For Other Reasons. DM @AmineSoukara",
+    ERRTOKEN_TEXT = "😶 The Access Token Provided Has Expired, Revoked, Malformed Or Invalid For Other Reasons. DM @xDune",
 
     WAIT = "💬 Please Wait !!"
