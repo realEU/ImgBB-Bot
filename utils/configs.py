@@ -31,7 +31,7 @@ class Tr(object):
 
     START_TEXT = """
 👋 Hi {},
-         I’m [ImgBBbot](telegram.me/xImgBBbot). I can upload images on **ImgBB.com** & generate shareable link for it! 
+         I’m **[ImgBBbot](telegram.me/xImgBBbot)**. I can upload images on **ImgBB.com** & generate shareable link for it! 
 
 BTW, do press **Help** for more information about the process.
 """
