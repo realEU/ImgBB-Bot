@@ -31,7 +31,7 @@ class Tr(object):
 
     START_TEXT = """
 👋 Hi {},
-         I’m [ImgBBbot](telegram.me/xImgBBbot). I can generate shareable link for the images you send which will be uploaded to imgbb.com!
+         I’m [ImgBBbot](telegram.me/xImgBBbot). I can upload images on **ImgBB.com** & generate shareable link for it! 
 
 BTW, do press **Help** for more information about the process.
 """
@@ -53,8 +53,12 @@ BTW, do press **Help** for more information about the process.
 📢 **Updates Channel:** [Marine Bots](https://t.me/MarineBots)
 """
 
-    HELP_TEXT = """💡 Just Send Me An Image And I'll Upload it To You .  That's it!
-"""
+    HELP_TEXT = """You may have already known my function. As you have seen in the start message, I can upload images on **ImgBB.com & generate shareable link, which can be deleted after a specific time or stay there forever ~ according to your selection...🙃
+
+Steps:
+• Post/Forward any image...
+• Select an option ~ whether to delete it automatically within the given period or keep it permanently...
+• BOOM! Your image is uploaded! You will be provided with a link to view the image, as well as, a link to delete it."""
 
     ERR_TEXT = "⚠️ API Not Found"
 
