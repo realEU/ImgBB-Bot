@@ -20,7 +20,7 @@ ext = tuple(
 
 
 Img = Client(
-    "ImgBB Bot",
+    "xImgBB Bot",
     bot_token=Var.BOT_TOKEN,
     api_id=Var.API_ID,
     api_hash=Var.API_HASH,
