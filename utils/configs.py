@@ -30,7 +30,7 @@ class Var(object):
 class Tr(object):
 
     START_TEXT = """
-👋 Hi ! {} Welcome To @xImgBBbot
+👋 Hi {}, Welcome To @xImgBBbot
 
 **With This Bot You Can Hosts Your Images On imgbb.com **
 
