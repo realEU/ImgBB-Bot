@@ -23,8 +23,8 @@ class Var(object):
     OWNER_ID = int(os.environ.get("OWNER_ID", "1453690249"))
     BOT_NAME = os.environ.get("BOT_NAME", "ImgBB")
 
-    START_PIC = "https://telegra.ph/file/2d1c62254cac3d9a087c5.jpg"
-    HELP_PIC = "https://telegra.ph/file/2d1c62254cac3d9a087c5.jpg"
+    START_PIC = "https://telegra.ph/file/a52e693e64f9ac74c4caf.jpg"
+    HELP_PIC = "https://telegra.ph/file/a52e693e64f9ac74c4caf.jpg"
 
 
 class Tr(object):
