@@ -15,7 +15,7 @@ class Var(object):
 
 
     # To record start time of bot
-    BOT_START_TIME = time.strftime( "%Hh %Mm %Ss", time.gmtime(time.time() - Var.BOT_START_TIME) )
+    BOT_START_TIME = time.time()
 
     # You Can Get An API Key From https://api.imgbb.com.
     API = os.environ.get("API", None)
