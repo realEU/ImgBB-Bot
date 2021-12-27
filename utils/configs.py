@@ -20,7 +20,7 @@ class Var(object):
     # You Can Get An API Key From https://api.imgbb.com.
     API = os.environ.get("API", None)
 
-    OWNER_ID = int(os.environ.get("OWNER_ID", "-1001418249477"))
+    OWNER_ID = int(os.environ.get("OWNER_ID", "1453690249"))
     BOT_NAME = os.environ.get("BOT_NAME", "ImgBB")
 
     START_PIC = "https://telegra.ph/file/e162f5f8554a9bf66e830.jpg"
