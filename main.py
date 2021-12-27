@@ -34,7 +34,7 @@ START_BTN = ikb(
             ("📚 Help", "help"),
         ],
         [
-            ("👨‍💻 Developer", "https://telegram.me/xDune", "url"),
+            ("👨‍💻 Developer", "https://telegram.me/MarineBots", "url"),
             ("❌", "close"),
         ],
     ]
