@@ -20,7 +20,7 @@ class Var(object):
     # You Can Get An API Key From https://api.imgbb.com.
     API = os.environ.get("API", None)
 
-    OWNER_ID = int(os.environ.get("OWNER_ID", "1453690249"))
+    OWNER_ID = int(os.environ.get("OWNER_ID", "-1001215481604"))
     BOT_NAME = os.environ.get("BOT_NAME", "ImgBB")
 
     START_PIC = "https://telegra.ph/file/e162f5f8554a9bf66e830.jpg"
@@ -60,6 +60,6 @@ Steps:
 
     ERR_TEXT = "⚠️ API Not Found"
 
-    ERRTOKEN_TEXT = "😶 The Access Token Provided Has Expired, Revoked, Malformed Or Invalid For Other Reasons. DM @xDune",
+    ERRTOKEN_TEXT = "😶 The Access Token Provided Has Expired, Revoked, Malformed Or Invalid For Other Reasons. Report this at @MarineBots",
 
     WAIT = "💬 Please Wait !!"
